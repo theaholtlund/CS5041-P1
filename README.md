@@ -1,15 +1,15 @@
-# Asteroids Game with Micro:bit
+# Micro:bit Asteroids Game
 
-### Description:
+### Description
 
 This repository contains the source code and hex file for an Asteroids game designed to be played with a Micro:bit microcontroller. The game incorporates various inputs and outputs to create an interactive gaming experience.
 
-### Files:
+### Files
 
-- **Assignment-1.js**: This file contains the source code for the Asteroids game implemented using JavaScript.
-- **Microbit-Practical-1.hex**: This hex file is compiled from the JavaScript code and is ready to be flashed onto a Micro:bit device for playing the game.
+- **Assignment-1.js**: Contains the JavaScript source code implementing the Asteroids game.
+- **Microbit-Practical-1.hex**: The compiled hex file ready for flashing onto a Micro:bit device to play the game.
 
-### Instructions:
+### Instructions
 
 Utilise the following Micro:bit actions to control the game:
 
